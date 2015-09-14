@@ -1,0 +1,2 @@
+# sweatlog
+fitness tracks parser
